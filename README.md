@@ -1,2 +1,2 @@
 Unit-test basic methods  
-Node with Chai library 
+Chai assertion library for Node
